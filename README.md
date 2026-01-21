@@ -6,6 +6,7 @@ Este script de Python permite abrir automáticamente una serie de archivos (como
 
 - Abre múltiples archivos con `os.startfile`
 - Abre múltiples programas con `subprocess.Popen`
+- Abre múltiples url con `webbrowser.open`
 - Incluye manejo básico de errores
 - Añade pausas entre cada apertura para evitar saturar el sistema
 
