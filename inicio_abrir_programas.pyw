@@ -4,7 +4,6 @@ import os
 import webbrowser
 from pathlib import Path
 
-
 class AbrirProgramas:
 
     def abrir_programas(self, programas):
@@ -60,7 +59,7 @@ if __name__ == '__main__':
         'https://cvcontrol.odoo.com/web/login?redirect=%2Fodoo%3F',
         'https://www.galicia.ar/',
         'https://bna.com.ar/',
-        'https://clientes.balanz.com/auth/login',
+        #'https://clientes.balanz.com/auth/login',
         'https://web.whatsapp.com/'
         
     ]
