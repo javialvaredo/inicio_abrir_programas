@@ -1,0 +1,16 @@
+# Windows
+Thumbs.db
+*.lnk
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Otros
+.DS_Store
+*.bak
+*.tmp
