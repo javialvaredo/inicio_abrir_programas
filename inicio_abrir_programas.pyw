@@ -61,7 +61,8 @@ if __name__ == '__main__':
         'https://www.galicia.ar/',
         'https://bna.com.ar/',
         #'https://clientes.balanz.com/auth/login',
-        'https://web.whatsapp.com/'
+        'https://web.whatsapp.com/',
+        'http://192.168.27.22:81/doc/page/login.asp?_1778236914726&page=preview'
         
     ]
 
