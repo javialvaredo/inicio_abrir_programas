@@ -58,6 +58,7 @@ if __name__ == '__main__':
     urls = [
         'https://cvcontrol.odoo.com/web/login?redirect=%2Fodoo%3F',
         'https://cvcontrol.odoo.com/web/login?redirect=%2Fodoo%3F',
+        'https://cvcontrol.odoo.com/odoo/action-67',
         'https://www.galicia.ar/',
         'https://bna.com.ar/',
         #'https://clientes.balanz.com/auth/login',
